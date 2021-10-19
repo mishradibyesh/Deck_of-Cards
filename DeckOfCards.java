@@ -39,7 +39,7 @@ public class DeckOfCards {
 			System.out.println("");
 			System.out.println("Cards recieved by player "+(i+1)+" are");
 			for(int j = 0; j< 9 ; j++) {
-				System.out.println("  "+deck[i][j]) ;
+				System.out.println("   "+deck[i][j]) ;
 			}		
 		}
 	}

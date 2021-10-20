@@ -33,7 +33,7 @@ public class DeckOfCards {
 			}		
 		}
 	}
-	public static void distribute() {               // distributing the cards to peoples
+	public static void distribute() {               // distributing the cards to peoples and printing it
 
 		for(int i = 0; i< SUITS.length ; i++) {
 			System.out.println("");
